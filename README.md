@@ -75,10 +75,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the terms of the license.
 
-## Acknowledgments
-
-Special thanks to the contributors and open source projects that provided inspiration, guidance, and valuable resources for the Secret Santa Game.
-
 ## Contact
 
 If you have any questions or need further assistance, please feel free to contact the project maintainer at [dinabandhu.chakraborty.jc@gmail.com](mailto:dinabandhu.chakraborty.jc@gmail.com).
