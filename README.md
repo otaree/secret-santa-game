@@ -69,7 +69,7 @@ This logic ensures that each employee is assigned exactly one secret child, whil
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [project repository](https://github.com/your-username/secret-santa-game).
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [project repository](https://github.com/otaree/secret-santa-game).
 
 ## License
 
