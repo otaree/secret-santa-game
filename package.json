@@ -1,0 +1,16 @@
+{
+  "name": "secret_santa",
+  "version": "1.0.0",
+  "description": "Assigns a Secret Santa recipient to each employee and saves the assignments in a CSV file.",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/.bin/jest",
+    "start": "node index.js"
+  },
+  "author": "Dinabandhu Chakraborty (otaree)",
+  "license": "MIT"
+}
