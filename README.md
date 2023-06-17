@@ -67,10 +67,6 @@ Here's an overview of the logic:
 
 This logic ensures that each employee is assigned exactly one secret child, while also taking into account the previous year's assignments to avoid assigning the same secret child as before.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [project repository](https://github.com/otaree/secret-santa-game).
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the terms of the license.
